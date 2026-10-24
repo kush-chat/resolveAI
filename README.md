@@ -57,6 +57,9 @@ ResolveAI/
 Place the original UCI CSV at `data/incident_event_log.csv`. Keep this file
 unchanged; future preparation code must write derived data to a separate file.
 The local copy was copied from the existing downloaded file and verified
+
+https://archive.ics.uci.edu/dataset/498/incident%2Bmanagement%2Bprocess%2Benriched%2Bevent%2Blog
+
 byte-for-byte using SHA-256:
 
 ```text
